@@ -1,5 +1,10 @@
 Image-Garage-App
 ================
+
+#This is no longer available on the app store I've moved on to open source, cydia programming and some reverse engineering.
+
+<a href="http://www.ImageGarageApp.com>www.ImageGarageApp.com</a>
+
 //Folder descriptions at the bottom of the page.
 
 A iOS Layering, filtering and drawing app based on two open source sets of code.
