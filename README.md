@@ -1,9 +1,10 @@
 Image-Garage-App
 ================
+<a href="http://www.ImageGarageApp.com>www.ImageGarageApp.com</a><br>
 <img src="http://www.imagegarageapp.com/uploads/3/2/5/7/3257366/491168_orig.png" style="width:100%;max-width:467px" />
 #This is no longer available on the app store I've moved on to open source, cydia programming and some reverse engineering.
 
-<a href="http://www.ImageGarageApp.com>www.ImageGarageApp.com</a>
+
 
 //Folder descriptions at the bottom of the page.
 
